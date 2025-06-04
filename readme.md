@@ -402,22 +402,6 @@ if __name__ == "__main__":
     processar_emails()
 ```
 
----
-
-## Como agendar a execução automaticamente (cron)
-
-### Windows:
-Use o **Agendador de Tarefas** para rodar `python main.py` de hora em hora.
-
-### Linux/Mac:
-Edite o `crontab`:
-```bash
-crontab -e
-```
-E adicione:
-```
-0 * * * * /usr/bin/python3 /caminho/para/email_automacao/main.py
-```
 
 ---
 
@@ -485,6 +469,24 @@ Instale com:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+
+## Como agendar a execução automaticamente (cron)
+
+### Windows:
+Use o **Agendador de Tarefas** para rodar `python main.py` de hora em hora.
+
+### Linux/Mac:
+Edite o `crontab`:
+```bash
+crontab -e
+```
+E adicione:
+```
+0 * * * * /usr/bin/python3 /caminho/para/email_automacao/main.py
 ```
 
 ---
