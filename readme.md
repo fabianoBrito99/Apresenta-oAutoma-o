@@ -42,6 +42,10 @@ Automatizar o processo de:
 
 ---
 
+### utilize boas praticas de códigos
+
+- Nunca construa sua estrutura tudo em 1 codigo, separe por partes e rode tudo no `main.py`
+
 ## 🗂️ Estrutura de Pastas
 
 ```
