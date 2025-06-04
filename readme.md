@@ -9,11 +9,11 @@ Python é uma linguagem de programação de alto nível, conhecida por sua simpl
 ---
 
 ## 1. O que é o Python?
-O **Python** é uma linguagem de programação considerada "fácil" de aprender por sua simples sintaxes e por ser uma linguagem de auto nivel(mais proxima do ser humano), linguagens de baixo nivel como C, Java... são de baixo nivel mais proxima do computador e muito usada para automação de tarefas, análise de dados, inteligência artificial e muito mais.
+O **Python** é uma linguagem de programação considerada "fácil" de aprender por sua simples sintaxes e por ser uma linguagem de auto nivel(mais proxima do ser humano), linguagens de baixo nivel como C, Java... são de baixo nivel mais proxima do computador. python é muito usada para automação de tarefas, análise de dados, webscraping, raspagem de dados, inteligência artificial e muito mais.
 
 ### ✅ Vantagens do Python:
 - Simples e intuitivo
-- Muito bem documentado
+- Muito bem documentado( https://docs.python.org/3.15/ )
 - Possui milhares de bibliotecas prontas para uso
 
 ---
